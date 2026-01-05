@@ -127,7 +127,7 @@ Enables data-driven storytelling for presentations and fan engagement
 
 Dashboard Preview:
 
-![IPL Analytics Dashboard](IPL_Dashboard_Snapshot.png)
+![IPL Analytics Dashboard](IPL_Dashboard_%20Snapshot%20(1).png)
 
 
 
